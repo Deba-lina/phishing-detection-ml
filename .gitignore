@@ -1,3 +1,5 @@
 phishing.csv
 __pycache__/
 *.pyc
+.venv/
+artifacts/
